@@ -1,0 +1,17 @@
+name: f1_dashboard_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - r-base=4.2
+  - r-shiny
+  - r-leaflet
+  - r-dplyr
+  - r-readr
+  - r-shinyWidgets
+  - r-shinydashboard
+  - r-ggplot2
+  - r-tidyverse
+  - r-jsonlite
+  - r-curl
+  - r-data.table
