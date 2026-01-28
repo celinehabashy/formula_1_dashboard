@@ -16,7 +16,7 @@ This dashboard is designed for:
 
 ## App Description 
 
-![video demo](img/demo.mp4)
+![Demo](img/demo.gif)
 
 The Formula 1 Race Dashboard is an interactive data visualization tool that provides insights into Formula 1 race results and driver performance across different seasons. It includes the following features:
 
